@@ -7,7 +7,7 @@ npm install
 
 ## elasticSearch
 ```
-npm install elasticsearch -g
+brew install elasticsearch
 ```
 run it with
 ``` elasticsearch ```
