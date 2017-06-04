@@ -1,0 +1,24 @@
+{
+  "name": "searchjobs",
+  "version": "1.0.0",
+  "description": "``` git clone https://github.com/mbinet/searchJobs.git cd searchJobs npm install ```",
+  "main": "index.js",
+  "dependencies": {
+    "elasticsearch": "^13.0.1",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbinet/searchJobs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbinet/searchJobs/issues"
+  },
+  "homepage": "https://github.com/mbinet/searchJobs#readme"
+}
